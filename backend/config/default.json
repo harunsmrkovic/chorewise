@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/chorewise",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "P1hugHWrmFtw/z6nVzpBde/ganvtWfZdqn7Z97lGhMLv7xjFyBQi5Hs/HGbaQtjnszNrd9tTWPRMTwJ91wiawA=="
+    },
+    "local": {}
+  }
+}
